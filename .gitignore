@@ -1,0 +1,4 @@
+parking-ai/
+__pycache__/
+*.pyc
+.env
