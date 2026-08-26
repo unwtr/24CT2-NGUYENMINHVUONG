@@ -1,0 +1,4 @@
+parking-ai\Scripts\activate
+cd smart-parking
+pip freeze > requirements.txt
+cd ..
