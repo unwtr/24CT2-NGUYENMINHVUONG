@@ -1,0 +1,15 @@
+# Web UI
+streamlit==1.62.0
+
+# AI / YOLO
+ultralytics==8.4.129
+
+# Computer Vision
+opencv-python==5.0.0.93
+Pillow==12.3.0
+numpy==2.5.2
+
+# Data / configuration
+pandas==3.0.5
+PyYAML==6.0.3
+requests==2.34.2
